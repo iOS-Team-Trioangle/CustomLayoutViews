@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  This Best way to avoid duplicate views in our project and make best compressed code creation
+  Robustic™ is a technology company providing products and vision with a common sense approach. Let us cut through all the buzz words and help you get to an answer we can all understand.
                    DESC
 
   spec.homepage     = "https://github.com/iOS-Team-Trioangle/CustomLayoutViews"
