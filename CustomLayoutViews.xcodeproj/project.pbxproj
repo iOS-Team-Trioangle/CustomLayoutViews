@@ -9,12 +9,14 @@
 /* Begin PBXBuildFile section */
 		181CCD5627BB611100165213 /* CustomLayoutViews.docc in Sources */ = {isa = PBXBuildFile; fileRef = 181CCD5527BB611100165213 /* CustomLayoutViews.docc */; };
 		181CCD5727BB611100165213 /* CustomLayoutViews.h in Headers */ = {isa = PBXBuildFile; fileRef = 181CCD5427BB611100165213 /* CustomLayoutViews.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		181CCD6027BB68C800165213 /* CustomLayoutViews.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 181CCD5F27BB68C800165213 /* CustomLayoutViews.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		181CCD5127BB611100165213 /* CustomLayoutViews.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CustomLayoutViews.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		181CCD5427BB611100165213 /* CustomLayoutViews.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomLayoutViews.h; sourceTree = "<group>"; };
 		181CCD5527BB611100165213 /* CustomLayoutViews.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = CustomLayoutViews.docc; sourceTree = "<group>"; };
+		181CCD5F27BB68C800165213 /* CustomLayoutViews.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CustomLayoutViews.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +33,7 @@
 		181CCD4727BB611100165213 = {
 			isa = PBXGroup;
 			children = (
+				181CCD5F27BB68C800165213 /* CustomLayoutViews.podspec */,
 				181CCD5327BB611100165213 /* CustomLayoutViews */,
 				181CCD5227BB611100165213 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				181CCD6027BB68C800165213 /* CustomLayoutViews.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
